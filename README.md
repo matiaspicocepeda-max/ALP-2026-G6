@@ -106,11 +106,11 @@
 
 | ⏱️ Bloque | 📌 Tema | 👤 Responsable | ⌛ Tiempo |
 |---|---|:-:|:-:|
-| 🚀 Apertura | Motivación: *¿Cómo guardar las notas de 30 estudiantes?* | Integrante 1 | 5 min |
-| 🧱 Parte 1 | ¿Qué es un arreglo? Declaración, creación e índices | Integrante 1 | 22 min |
-| 🔁 Parte 2 | Recorrido secuencial e inverso (`for`, `for-each`, `while`) | Integrante 2 | 25 min |
-| ➕ Parte 3 | Suma, promedio y conteo condicional | Integrante 3 | 23 min |
-| 🏁 Cierre | Síntesis, ejercicios propuestos y preguntas | Integrante 3 | 5 min |
+| 🚀 Apertura | Motivación: *¿Cómo guardar las notas de 30 estudiantes?* | Marlon Yaguana | 5 min |
+| 🧱 Parte 1 | ¿Qué es un arreglo? Declaración, creación e índices | Marlon Yaguana | 22 min |
+| 🔁 Parte 2 | Recorrido secuencial e inverso (`for`, `for-each`, `while`) | Matias Pico | 25 min |
+| ➕ Parte 3 | Suma, promedio y conteo condicional | Joel Pacha | 23 min |
+| 🏁 Cierre | Síntesis, ejercicios propuestos y preguntas | Joel Pacha | 5 min |
 
 **🔑 Conceptos clave**
 
